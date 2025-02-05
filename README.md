@@ -1,2 +1,2 @@
 # front-products
-El repositorio del frontend ESTÁ EN LA RAMA BRAN
+El repositorio del frontend está en la RAMA MASTER
